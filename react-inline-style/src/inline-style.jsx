@@ -179,6 +179,422 @@ function Inline(){
 
             {/* End Header */}
 
+
+
+
+
+
+            <div style={cardsFlex}>
+
+<div>
+    <i style={fontIcons} class="fa-solid fa-cart-shopping"></i>
+    <span style={spans}>Free delivery</span>
+    <p style={p}>Consectetur adipi elit lorem ipsum dolor sit amet</p>
+
+</div>
+
+
+<div>
+    <i style={fontIcons} class="fa-solid fa-star"></i>
+    <span style={spans}>Quality guarantee</span>
+    <p style={p}>Dolor sit amet orem ipsu mcons ectetur adipi elit.</p>
+
+</div>
+
+
+<div>
+    <i style={fontIcons} class="fa-regular fa-envelope"></i>
+    <span style={spans}>Daily offers</span>
+    <p style={p}>Amet consectetur adipi elit loreme ipsum dolor sit.</p>
+
+</div>
+
+
+
+
+
+<div>
+    <i style={fontIcons} class="fa-solid fa-plus"></i>
+    <span style={spans}>Daily offers</span>
+    <p style={p}>Rem Lopsum dolor sit amet, consectetur adipi elit.</p>
+
+</div>
+</div>
+
+
+
+
+
+<div>
+<div style={thierdSflex}>
+    <div>
+        <h1>Best selling items</h1>
+    </div>
+
+    <div>
+        <a href="" style={viewLink}>View All</a>
+    </div>
+
+</div>
+
+
+
+<div style={cardsFlex2}>
+    <div>
+        <img style={firstImg} src={firstProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">House of Sky Breath</a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+
+
+
+
+    <div>
+        <img style={firstImg} src={secondProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">Heart Land</a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+
+
+    <div>
+        <img style={firstImg} src={thierdProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+
+
+
+    <div>
+        <img style={firstImg} src={forthdProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+
+
+
+</div>
+</div>
+
+
+
+
+{/* Start Section 4 */}
+
+
+
+
+<div className="section4-bg" style={s4Flex}>
+
+<div>
+    <img src={bannerImg3} alt="" />
+</div>
+
+<div>
+    <p style={pSection4}>30% Discount on all items. Hurry Up !!!</p>
+
+    <p style={pSection4}> 27 : 23 : 55 : 00</p>
+
+    <p style={p2Section4}> Days : Hrs : Min : Sec</p>
+
+    <a style={s4Link} href="#">Shop Collection</a>
+</div>
+</div>
+
+
+{/* End Section 4 */}
+
+
+
+
+{/* Start Section 5 */}
+
+
+
+
+
+
+<div style={s5_flex}>
+<div style={sevtion5_width}>
+
+
+    <div style={s5_flex1}>
+        <div>
+            <img style={firstImg} src={forthdProduct} alt="" />
+        </div>
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+    <hr />
+    <div style={s5_flex1}>
+        <img style={firstImg} src={fifthProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+    <hr />
+    <div style={s5_flex1}>
+        <img style={firstImg} src={thierdProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+
+    <hr />
+    <div style={s5_flex1}>
+        <img style={firstImg} src={forthdProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+
+
+</div>
+
+
+
+<div style={sevtion5_width2}>
+
+
+    <div style={s5_flex1}>
+        <div>
+            <img style={firstImg} src={forthdProduct} alt="" />
+        </div>
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+    <hr />
+    <div style={s5_flex1}>
+        <img style={firstImg} src={fifthProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+    <hr />
+    <div style={s5_flex1}>
+        <img style={firstImg} src={thierdProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+
+    <hr />
+    <div style={s5_flex1}>
+        <img style={firstImg} src={forthdProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+
+
+</div>
+
+<div style={sevtion5_width2}>
+
+
+    <div style={s5_flex1}>
+        <div>
+            <img style={firstImg} src={forthdProduct} alt="" />
+        </div>
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+    <hr />
+    <div style={s5_flex1}>
+        <img style={firstImg} src={fifthProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+    <hr />
+    <div style={s5_flex1}>
+        <img style={firstImg} src={thierdProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+
+    <hr />
+    <div style={s5_flex1}>
+        <img style={firstImg} src={forthdProduct} alt="" />
+        <div>
+            <a style={cardsLink} href="">His Saving Grace </a>
+            <p style={p2}>Lauren Asher <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+
+
+            </p>
+            <p style={pRed}>870$</p>
+        </div>
+    </div>
+
+
+</div>
+
+
+</div>
+
+
+{/* End Section 5 */}
+
+
+
+
+ {/* Start Section 6 */}
+
+
+ <div>
+                <h1 style={textCenter}>Categories</h1>
+
+
+                <div>
+                    <div style={categoriesFlex}>
+                        <img style={categoriesImg} src={category1} alt="" />
+                        <img style={categoriesImg} src={category2} alt="" />
+                        <img style={categoriesImg} src={category3} alt="" />
+                    </div>
+                </div>
+            </div>
+
+            {/* End Section 6  */}
+
+
+            {/* Start Section 7 */}
+
+            <div className="section7-bg">
+
+                <div>
+                    <h1 style={textCenter}>Customers reviews</h1>
+                    <div style={pS6}>
+                        <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro non dolorem natus debitis necessitatibus velit ad tempore veniam! Vitae vel quaerat a possimus et optio!</p>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <p>Emma Chabberlin</p>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+            {/* End Section 7 */}
+
+
         </div>
     )
 
